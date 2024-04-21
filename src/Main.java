@@ -9,7 +9,6 @@ public class Main {
         System.out.println(
                 "O sistema matemático em Java respeita o sistema universal da matemática, logo o resultado será A+B e depois mutiplicará por 5, A vale 3 e B vale 5, logo da 8, 8x5=40, logo C="
                         + c);
-
         System.out.println("-----------------------------------------------------------------------------");
 
         //Operador Booleano, Invocando a classe Scanner, Estrutura condicional e Estrutura de Repetição
